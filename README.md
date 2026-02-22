@@ -51,6 +51,14 @@ Build Status
 Recent News
 ===========
 
+__February 2026__ Project status update:
+
+Another year goes by, we're still here, still waiting for VLC 4.x to be released, or waiting for further changes to
+LibVLC 4.x. Recently not much is changing in the LibVLC API, although some significant changes are expected. It is
+still unknown when VLC 4.0.0 will be finished and released, this leaves vlcj in a bit of a limbo situation. Right
+now vlcj 5.x can reliably be used with VLC 4.x nightly builds, but obviously there are risks to using pre-release
+software.
+
 __February 2025__ 5.0.0-M4 milestone release:
 
 >A new development milestone release has been created. You will need an up-to-date nightly build of VLC 4.x to use this.
